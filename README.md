@@ -97,7 +97,7 @@ Esta sección te guiará a través de las funcionalidades principales de la apli
 
     ![Alarma nueva](images/eliminacion_cena.png)
 
-    ![Alarma nueva](images/eliminacion_cena.png)
+    ![Alarma nueva](images/cena_eliminada.png)
 
 
 ## Organización del Código
